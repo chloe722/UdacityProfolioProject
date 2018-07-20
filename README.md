@@ -1,5 +1,3 @@
-# Weekly Progress of Chloe Hsu #
-## Week (19th Feb - 24th Feb) ##
+# Profolio project and Pixel Art Maker
 
-TODO
-- [ ] Complete the first project: Animal Trading Cards
+- This repo including Profolio project and Pixel Art Maker project
