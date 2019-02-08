@@ -1,3 +1,3 @@
-# Profolio project and Pixel Art Maker
+# Profolio project
 
-- This repo including Profolio project and Pixel Art Maker project
+- This repo including Profolio project 
